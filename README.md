@@ -10,7 +10,7 @@ A **website** that uses _git_ and its version control. It is like a _social netw
 
 ## Repo
 
-Short for **repository**. It is a __project_ that can have multiple _files_ in it. A _README_ file is extremely important
+Short for **repository**. It is a _project_ that can have multiple _files_ in it. A _README_ file is extremely important
 
 ## Commit
 
