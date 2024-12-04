@@ -11,6 +11,7 @@
 
 * A **website** that uses _git_ and its version control
 * It is like a _social network_ for people who use git
+  * It allows people to collaborate on a project easily
 * It allows you to view _previous versions_ or your _history_ for your files
 
 ## Repo
@@ -24,3 +25,4 @@
 * The **save button** for your _repo_
 * It saves all the changes you made to the file or any new files that you made
 * You can add a _hash_ is the unique _identifyer_ for when you make a change
+* You can add a _note_ to say what you changed
